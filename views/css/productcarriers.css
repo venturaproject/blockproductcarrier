@@ -1,0 +1,31 @@
+
+/* Products page */
+
+
+.product-carriers p {
+    display: block;
+    margin-left: 7.5%;
+    text-align: left;
+    margin-top: 10px;
+}
+.product-carriers {
+    border-top: 1px solid #dfdede;
+    margin-top: 10px;
+    background: #ffffff;
+    padding: 5px 0px ;
+}
+.product-carriers .carrier_name, .product-carriers .carrier_delay {
+    font-weight: bold;
+}
+
+
+/* Categories product list*/
+
+
+.product-carriers_list p {
+    text-align: center;
+}
+.product-carriers_list .carrier_name, .product-carriers_list .carrier_delay {
+    font-size: 12px;
+    font-weight: bold;
+}
