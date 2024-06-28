@@ -2,7 +2,7 @@
 
 ## About
 
-Modulr to show product carriers.
+Module to show product carriers.
 
 ## Contributing
 
